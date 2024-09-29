@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    max-width: 1000px;
+    margin:0 auto;
+    padding: 20;
+    text-align: justify;
+}
+h1 {
+    font-size: 36px;
+    color: #2c3e50;
+}
+h2 {
+    font-size: 28px;
+    color: #34495e;
+}
+section {
+    margin-bottom: 40px;
+}
+img {
+    margin-right: 10px;
+    float: left;
+    max-width: 300px;
+    height: auto;
+}
